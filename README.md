@@ -8,7 +8,7 @@ Gestionale completo per organizzatori, PR e invitati. Next.js 16, React, Tailwin
 - PR: soltanto le proprie liste, i propri ospiti e i propri tavoli. I contatori generali mostrano esclusivamente quanti tavoli sono prenotati/disponibili. I permessi sono applicati nelle API e nell'interfaccia.
 - Inviti pubblici distinti per lista e tavolo. Nome, cognome e conferma della lista; nessun codice da presentare all'ingresso.
 - CSV alfabetico compatibile con Excel e stampa/PDF; doppioni, link rigenerabili, scadenze e registro attività.
-- Loghi BoaVida originali, responsive e senza ritagli nella barra laterale.
+- I tre loghi BoaVida forniti sono usati nel sito e nell'icona del collegamento alla schermata Home.
 
 ## Avvio locale
 
